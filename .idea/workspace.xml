@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="spring_mvc_hibernate_crud_app:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49e41d0d-5bab-4104-aeb6-539274a7cbe9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.botsner.spring.mvc_hibernate.controller.EmployeeControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.botsner.spring.mvc_hibernate.controller.EmployeeControllerTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.botsner.spring.mvc_hibernate.dao.EmployeeDAOImplTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.botsner.spring.mvc_hibernate.dao.EmployeeDAOImplTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.botsner.spring.mvc_hibernate.entity.EmployeeTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.botsner.spring.mvc_hibernate.entity.EmployeeTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.botsner.spring.mvc_hibernate.service.EmployeeServiceImplTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.botsner.spring.mvc_hibernate.service.EmployeeServiceImplTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ru.botsner.spring.mvc_hibernate.controller.EmployeeControllerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ru.botsner.spring.mvc_hibernate.controller.EmployeeControllerTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ru.botsner.spring.mvc_hibernate.dao.EmployeeDAOImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ru.botsner.spring.mvc_hibernate.dao.EmployeeDAOImplTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ru.botsner.spring.mvc_hibernate.entity.EmployeeTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ru.botsner.spring.mvc_hibernate.entity.EmployeeTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ru.botsner.spring.mvc_hibernate.service.EmployeeServiceImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ru.botsner.spring.mvc_hibernate.service.EmployeeServiceImplTest.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="267" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2IVd3rj0dKslvDAHUkpvUm1rY3V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.botsner.spring.mvc_hibernate.dao" />
+      <recent name="ru.botsner.spring.mvc_hibernate.entity" />
+      <recent name="ru.botsner.spring.mvc_hibernate.service" />
+      <recent name="ru.botsner.spring.mvc_hibernate.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex\ideaProjectsToGitHub\spring_mvc_hibernate_crud_app\src\main\resources" />
+      <recent name="C:\Users\Alex\ideaProjectsToGitHub\spring_mvc_hibernate_crud_app\src\test\resources" />
+      <recent name="C:\Users\Alex\ideaProjectsToGitHub\spring_mvc_hibernate_crud_app\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex\ideaProjectsToGitHub\spring_mvc_hibernate_crud_app\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\Alex\ideaProjectsToGitHub\spring_mvc_hibernate_crud_app\src\main\java\ru\botsner\spring\mvc_hibernate" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.59">
+    <configuration name="EmployeeControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_mvc_hibernate_crud_app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.botsner.spring.mvc_hibernate.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.botsner.spring.mvc_hibernate.controller" />
+      <option name="MAIN_CLASS_NAME" value="ru.botsner.spring.mvc_hibernate.controller.EmployeeControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeControllerTest.addNewEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_mvc_hibernate_crud_app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.botsner.spring.mvc_hibernate.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.botsner.spring.mvc_hibernate.controller" />
+      <option name="MAIN_CLASS_NAME" value="ru.botsner.spring.mvc_hibernate.controller.EmployeeControllerTest" />
+      <option name="METHOD_NAME" value="addNewEmployee" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeControllerTest.deleteEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_mvc_hibernate_crud_app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.botsner.spring.mvc_hibernate.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.botsner.spring.mvc_hibernate.controller" />
+      <option name="MAIN_CLASS_NAME" value="ru.botsner.spring.mvc_hibernate.controller.EmployeeControllerTest" />
+      <option name="METHOD_NAME" value="deleteEmployee" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeControllerTest.showAllEmployees" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_mvc_hibernate_crud_app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.botsner.spring.mvc_hibernate.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.botsner.spring.mvc_hibernate.controller" />
+      <option name="MAIN_CLASS_NAME" value="ru.botsner.spring.mvc_hibernate.controller.EmployeeControllerTest" />
+      <option name="METHOD_NAME" value="showAllEmployees" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeControllerTest.updateEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_mvc_hibernate_crud_app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.botsner.spring.mvc_hibernate.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.botsner.spring.mvc_hibernate.controller" />
+      <option name="MAIN_CLASS_NAME" value="ru.botsner.spring.mvc_hibernate.controller.EmployeeControllerTest" />
+      <option name="METHOD_NAME" value="updateEmployee" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="spring_hibernate_crud_app" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="spring_hibernate_crud_app" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.59" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.59" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="spring_mvc_hibernate_crud_app:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_spring_mvc_hibernate_crud_app_5" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61006" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="spring_mvc_hibernate_crud_app:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_spring_mvc_hibernate_crud_app" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61006" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EmployeeControllerTest" />
+        <item itemvalue="JUnit.EmployeeControllerTest.deleteEmployee" />
+        <item itemvalue="JUnit.EmployeeControllerTest.showAllEmployees" />
+        <item itemvalue="JUnit.EmployeeControllerTest.updateEmployee" />
+        <item itemvalue="JUnit.EmployeeControllerTest.addNewEmployee" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.19491035" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49e41d0d-5bab-4104-aeb6-539274a7cbe9" name="Default Changelist" comment="" />
+      <created>1670270488517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670270488517</updated>
+      <workItem from="1670270491072" duration="82000" />
+      <workItem from="1670270732877" duration="4593000" />
+      <workItem from="1670275395083" duration="2019000" />
+      <workItem from="1670277560402" duration="4520000" />
+      <workItem from="1670576075487" duration="16247000" />
+      <workItem from="1671115288097" duration="80389000" />
+      <workItem from="1671534067660" duration="795000" />
+      <workItem from="1671541718664" duration="14000" />
+      <workItem from="1671541754368" duration="2209000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="644" y="205" key="#Assign_Data_Sources" timestamp="1670272141918">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="644" y="205" key="#Assign_Data_Sources/0.0.2048.1112@0.0.2048.1112" timestamp="1670272141918" />
+    <state x="643" y="205" key="#SQL_Dialects" timestamp="1671207476724">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="643" y="205" key="#SQL_Dialects/0.0.2048.1112@0.0.2048.1112" timestamp="1671207476724" />
+    <state x="398" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1671142146054">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="398" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1671142146054" />
+    <state x="820" y="247" key="#com.intellij.ide.util.MemberChooser" timestamp="1671457288853">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="820" y="247" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1671457288853" />
+    <state x="589" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1671532852927">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="589" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1671532852926" />
+    <state x="781" y="293" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1671208146284">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="781" y="293" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1671208146284" />
+    <state x="832" y="301" key="FileChooserDialogImpl" timestamp="1671533934937">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="832" y="301" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1671533934937" />
+    <state width="1465" height="241" key="GridCell.Tab.0.bottom" timestamp="1671545995690">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1465" height="241" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1671545995690" />
+    <state width="1465" height="241" key="GridCell.Tab.0.center" timestamp="1671545995690">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1465" height="241" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1671545995690" />
+    <state width="1465" height="241" key="GridCell.Tab.0.left" timestamp="1671545995690">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1465" height="241" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1671545995690" />
+    <state width="1465" height="241" key="GridCell.Tab.0.right" timestamp="1671545995690">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1465" height="241" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1671545995690" />
+    <state width="1465" height="241" key="GridCell.Tab.1.bottom" timestamp="1671545995691">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1465" height="241" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1671545995691" />
+    <state width="1465" height="241" key="GridCell.Tab.1.center" timestamp="1671545995691">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1465" height="241" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1671545995691" />
+    <state width="1465" height="241" key="GridCell.Tab.1.left" timestamp="1671545995691">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1465" height="241" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1671545995691" />
+    <state width="1465" height="241" key="GridCell.Tab.1.right" timestamp="1671545995691">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1465" height="241" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1671545995691" />
+    <state width="1465" height="241" key="GridCell.Tab.2.bottom" timestamp="1671545995691">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1465" height="241" key="GridCell.Tab.2.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1671545995691" />
+    <state width="1465" height="241" key="GridCell.Tab.2.center" timestamp="1671545995691">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1465" height="241" key="GridCell.Tab.2.center/0.0.2048.1112@0.0.2048.1112" timestamp="1671545995691" />
+    <state width="1465" height="241" key="GridCell.Tab.2.left" timestamp="1671545995691">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1465" height="241" key="GridCell.Tab.2.left/0.0.2048.1112@0.0.2048.1112" timestamp="1671545995691" />
+    <state width="1465" height="241" key="GridCell.Tab.2.right" timestamp="1671545995691">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1465" height="241" key="GridCell.Tab.2.right/0.0.2048.1112@0.0.2048.1112" timestamp="1671545995691" />
+    <state x="760" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1671233406458">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="760" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1671233406458" />
+    <state x="747" y="370" key="com.intellij.ide.util.TipDialog" timestamp="1671541720975">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="747" y="370" key="com.intellij.ide.util.TipDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1671541720975" />
+    <state x="796" y="249" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1671124624680">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="796" y="249" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1671124624680" />
+    <state x="793" y="165" key="refactoring.ChangeSignatureDialog" timestamp="1671453321148">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="793" y="165" key="refactoring.ChangeSignatureDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1671453321148" />
+    <state x="707" y="256" width="672" height="677" key="run.anything.popup" timestamp="1671146681240">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="707" y="256" width="672" height="677" key="run.anything.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1671146681240" />
+    <state x="713" y="250" width="672" height="678" key="search.everywhere.popup" timestamp="1671146691145">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="713" y="250" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1671146691145" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spring_mvc_hibernate_crud_app$EmployeeTest.ic" NAME="EmployeeTest Coverage Results" MODIFIED="1671124518034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.botsner.spring.mvc_hibernate.entity.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/spring_mvc_hibernate_crud_app$EmployeeServiceImplTest.ic" NAME="EmployeeServiceImplTest Coverage Results" MODIFIED="1671124580148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.botsner.spring.mvc_hibernate.service.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="se.expertsystem.intellij.aop.aspectj.AspectJProjectComponent">
+    <setting name="isActivated" value="false" />
+  </component>
+</project>
