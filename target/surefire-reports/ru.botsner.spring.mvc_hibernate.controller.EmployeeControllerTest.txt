@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: ru.botsner.spring.mvc_hibernate.controller.EmployeeControllerTest
--------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.572 s - in ru.botsner.spring.mvc_hibernate.controller.EmployeeControllerTest
